@@ -1,0 +1,12 @@
+{
+  "name": "nacl-js",
+  "author": {
+    "name": "MahbodHastam",
+    "url": "https://github.com/MahbodHastam"
+  },
+  "dependencies": {
+    "scryptsy": "^2.1.0",
+    "tweetnacl": "^1.0.3",
+    "tweetnacl-util": "^0.15.1"
+  }
+}
