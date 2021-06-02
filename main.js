@@ -36,7 +36,7 @@ if (command === 'encrypt') {
   let encrypted = nacl.secretbox(message, nonce, key)
   encrypted = util.encodeBase64(encrypted)
 
-  fs.writeFile('./encrypted-message-file.txt', encrypted, 'ascii', err => {
+  fs.writeFile('./key.txt', encrypted, 'ascii', err => {
     if (err)
       console.log(err)
     else
