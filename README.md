@@ -2,13 +2,13 @@
 
 ### How to use
 
-#### Encrypt
+#### 🔒 Encrypt
 
 ```
 node main.js encrypt "YOUR MESSAGE"
 ```
 
-#### Decrypt
+#### 🔓 Decrypt
 
 ```
 node main.js decrypt "" "SALT" "NONCE" key.txt
