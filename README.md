@@ -1,6 +1,6 @@
 ## NaCl-js
 
-### How to use
+### How to use: 
 
 #### 🔒 Encrypt
 
