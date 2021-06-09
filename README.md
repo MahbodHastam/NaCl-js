@@ -4,12 +4,12 @@
 
 #### 🔒 Encrypt
 
-```
+```bash
 node main.js encrypt "YOUR MESSAGE"
 ```
 
 #### 🔓 Decrypt
 
-```
+```bash
 node main.js decrypt "" "SALT" "NONCE" key.txt
 ```
