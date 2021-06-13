@@ -1,4 +1,4 @@
-## NaCl-js
+## **NaCl**-js
 
 ### How to use: 
 
